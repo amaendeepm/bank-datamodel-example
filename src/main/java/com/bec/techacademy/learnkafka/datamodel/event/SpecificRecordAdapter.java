@@ -1,4 +1,4 @@
-package dk.martincallesen.datamodel.event;
+package com.bec.techacademy.learnkafka.datamodel.event;
 
 import org.apache.avro.Schema;
 import org.apache.avro.specific.SpecificRecord;

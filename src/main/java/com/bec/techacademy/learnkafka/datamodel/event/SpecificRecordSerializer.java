@@ -1,4 +1,4 @@
-package dk.martincallesen.datamodel.event;
+package com.bec.techacademy.learnkafka.datamodel.event;
 
 import org.apache.avro.generic.GenericDatumWriter;
 import org.apache.avro.generic.GenericRecord;
